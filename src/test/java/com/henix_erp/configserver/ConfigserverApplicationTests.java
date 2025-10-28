@@ -1,10 +1,10 @@
-package com.henix_erp.config_server;
+package com.henix_erp.configserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ConfigServerApplicationTests {
+class ConfigserverApplicationTests {
 
 	@Test
 	void contextLoads() {
